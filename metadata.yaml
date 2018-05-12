@@ -1,0 +1,39 @@
+_repo: Tusschen-mal-en-dwaasWat-een-meisje-te-genieten-en-te-lijden-heeft-eer-zij-de-wereld-in-is_41239
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 41239-h/images/cover.jpg
+creator:
+  authors:
+  - agent_name: Andriessen, P. J. (Pieter Jacob)
+    aliases:
+    - Andriessen, Pieter Jacob
+    - Andriesen, P. J. (Pieter Jacob)
+    birthdate: 1815
+    deathdate: 1877
+    gutenberg_agent_id: '9271'
+    url: http://www.gutenberg.org/2009/agents/9271
+    wikipedia: http://www.dbnl.org/auteurs/auteur.php?id=andr018
+  - agent_name: Helm, Clementine
+    alias: Beyrich, Clementine (Helm), Frau
+    birthdate: 1825
+    deathdate: 1896
+    gutenberg_agent_id: '41061'
+    url: http://www.gutenberg.org/2009/agents/41061
+description: ''
+gutenberg_issued: '2012-10-30'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '41239'
+language: nl
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PZ'
+- !lcsh 'Teenage girls -- Juvenile fiction'
+- !lcsh 'Aunts -- Juvenile fiction'
+title: 'Tusschen mal en dwaas
+
+  Wat een meisje te genieten en te lijden heeft, eer zij de wereld in is'
+url: http://www.gutenberg.org/ebooks/41239
